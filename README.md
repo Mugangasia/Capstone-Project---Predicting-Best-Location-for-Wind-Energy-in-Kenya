@@ -1,3 +1,5 @@
+![image](https://github.com/Mugangasia/Capstone-Project---Predicting-Best-Location-for-Wind-Energy-in-Kenya/assets/98708792/41e52c59-52d2-4c69-9a7e-a1d4a88cc129)
+
 # Wind Power Plant Location Selection System
 
 # Business Understanding 
