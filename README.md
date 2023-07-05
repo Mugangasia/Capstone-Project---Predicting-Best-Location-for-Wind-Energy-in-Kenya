@@ -9,20 +9,20 @@ The proposed project aims to develop a system that assists in selecting optimal 
 The motivation behind this project is the urgent need to transition to renewable energy sources and mitigate the adverse effects of climate change caused by fossil fuel consumption. By facilitating the selection of suitable locations for wind power plants, this system can help accelerate the adoption of clean and sustainable energy solutions.
 
 ## Problem Statement 
-Selecting the most suitable locations for wind power plants is crucial for maximizing energy generation and ensuring sustainable and profitable operation. The efficiency of wind energy production depends heavily on the prevailing weather conditions in specific areas. However, the lack of a comprehensive and data-driven approach to assess the wind energy potential at different locations hinders effective decision-making for energy companies and policymakers.
+Selecting the most suitable locations for wind power plants is crucial for maximizing energy generation and ensuring sustainable and profitable operation. The efficiency of wind energy production depends heavily on the prevailing weather conditions in specific areas. However, the lack of a comprehensive and data-driven approach to assessing the wind energy potential at different locations hinders effective decision-making for energy companies and policymakers.
 
-This project aims to address this challenge by developing a system that leverages historical weather data and geographical information to identify and rank potential wind power plant locations in the following regions in Kenya(Kajiado,Marsabit,Laikipia,Nyeri,Meru and Samburu).Kajiado,Marsabit and Samburu already have the existing power plants but the potential to produce more green power from these regions and more still exists. The biggest challenge faced by stakeholders in this industry is accurately identifying profitable wind energy generating sites.
+This project aims to address this challenge by developing a system that leverages historical weather data and geographical information to identify and rank potential wind power plant locations in the following regions in Kenya(Kajiado, Marsabit, Laikipia,Nyeri, Meru and Samburu). Kajiado, Marsabit and Samburu already have existing power plants but the potential to produce more green power from these regions and more still exists. The biggest challenge faced by stakeholders in this industry is accurately identifying profitable wind energy-generating sites.
 
 By creating a system that utilizes weather data and geolocation information, stakeholders can make informed choices regarding the optimal placement of wind power plants. This will result in improved energy generation efficiency, reduced reliance on fossil fuels, and a positive impact on global energy sustainability.
 
 ## Project Objectives 
-* To use predictive models(LSTM and Facebook Prophet),perform time series analysis to rank six locations based on hourly windspeed predictions.
+* To use predictive models(LSTM and Facebook Prophet), and perform time series analysis to rank six locations based on hourly wind speed predictions.
 
-* Develop an end product that provide insights on suitability of setting up turbine plant in an area.
+* Develop an end product that provide insights on the suitability of setting up a turbine plant in an area.
 
 
 ## Success Metrics
-* Prediction Accuracy : Metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE) will be used to measure the success of the predictive models.
+* Prediction Accuracy: Metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE) will be used to measure the success of the predictive models.
 
 * Minimum Viable Product (MVP): The MVP will include a baseline model that predicts wind speed in an specific location over a time difference if 1 Hour and give insights to stakeholders.
 
